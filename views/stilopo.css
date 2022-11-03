@@ -1,0 +1,49 @@
+
+
+footer {
+    
+    position: bottom;
+    bottom: 0;
+    background-color: rgb(53, 6, 54);
+    color: #FFF;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 50px;
+}
+
+nav {
+
+    background-color: rgb(53, 6, 54);
+    position: sticky;
+}
+
+h4 {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+p {
+    
+    padding-left: 50px;
+    font-size: larger;
+}
+
+img{
+    width: 50%;
+    height: 200px;
+    display: block;
+ margin: 0px auto;
+}
+
+li{
+    
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: larger;
+    list-style-position: inside;
+}
+
+.navbar-brand{
+    font-size: large;
+}
